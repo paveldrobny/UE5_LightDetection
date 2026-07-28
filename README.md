@@ -11,12 +11,12 @@
 
 ## Overview
 
-![Альтернативный текст]([URL изображения](https://github.com/paveldrobny/UE5_LightDetection/blob/master/InLight.png))
-![Альтернативный текст]([URL изображения](https://github.com/paveldrobny/UE5_LightDetection/blob/master/InShadow.png))
+![Light detection](https://github.com/paveldrobny/UE5_LightDetection/blob/master/InLight.png)
+![Shadow detection](https://github.com/paveldrobny/UE5_LightDetection/blob/master/InShadow.png)
 
 ## Blueprint Version
 
-![Альтернативный текст]([URL изображения](https://github.com/paveldrobny/UE5_LightDetection/blob/master/BP_DEMO.png))
+![BPCode](https://github.com/paveldrobny/UE5_LightDetection/blob/master/BP_DEMO.png)
 
 ## C++ Version
 
