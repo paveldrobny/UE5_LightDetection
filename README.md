@@ -11,8 +11,8 @@
 
 ## Overview
 
-![Sun Detection](Images/InLight.png)
-![Sun Detection](Images/InShadow.png)
+![Sun Detection](https://github.com/paveldrobny/UE5_LightDetection/InLight.png)
+![Sun Detection](https://github.com/paveldrobny/UE5_LightDetection/InShadow.png)
 
 ## Blueprint Version
 
