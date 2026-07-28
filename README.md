@@ -10,9 +10,8 @@
 
 
 ## Overview
+[[![Sun Detection](https://github.com/paveldrobny/UE5_LightDetection/blob/master/InLight.png)]
 
-[![Sun Detection](https://github.com/paveldrobny/UE5_LightDetection/InLight.png)]
-[![Sun Detection](https://github.com/paveldrobny/UE5_LightDetection/blob/master/InShadow.png)]
 
 ## Blueprint Version
 
