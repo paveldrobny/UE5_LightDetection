@@ -112,7 +112,7 @@ void ACustomCharacter::UpdateSunDetection()
 
 	AActor* HitActor = Hit.GetActor();
 
-	if (IsValid(HitActor))
+	if (bHit && IsValid(HitActor))
 	{
 		GEngine->AddOnScreenDebugMessage(-1, 0.5f, FColor::Green, TEXT("InShadow"));
 	}
