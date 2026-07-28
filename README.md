@@ -18,7 +18,7 @@
 
 ![BPCode](https://github.com/paveldrobny/UE5_LightDetection/blob/master/BP_Demo.png)
 
-## C++ Version
+## C++ Version (not included in the project)
 
 ### CustomCharacter.h
 
