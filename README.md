@@ -16,7 +16,7 @@
 
 ## Blueprint Version
 
-![BPCode](https://github.com/paveldrobny/UE5_LightDetection/blob/master/BP_DEMO.png)
+![BPCode](https://github.com/paveldrobny/UE5_LightDetection/blob/master/BP_Demo.png)
 
 ## C++ Version
 
