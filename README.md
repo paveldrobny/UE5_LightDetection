@@ -1,6 +1,6 @@
 # UE5_LightDetection
 
-## Determines whether the character is under direct sunlight or in shadow.
+## Simple determines whether the character is under direct sunlight or in shadow.
 ### Perfect for stealth games (Like Styx, Thief) with a visibility indicator
 
 ### Developed with Unreal Engine 5
