@@ -3,7 +3,7 @@
 ## Simple determines whether the character is under direct sunlight or in shadow.
 ### Perfect for stealth games (Like Styx, Thief) with a visibility indicator
 
-### Developed with Unreal Engine 5
+### Developed with Unreal Engine 5.8
 
 - [Overview](#overview)
 - [Blueprint Version](#blueprint-version)
