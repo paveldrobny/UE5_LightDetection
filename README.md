@@ -14,6 +14,7 @@
 
 ![Light detection](https://github.com/paveldrobny/UE5_LightDetection/blob/master/InLight.png)
 ![Shadow detection](https://github.com/paveldrobny/UE5_LightDetection/blob/master/InShadow.png)
+![Glass detection](https://github.com/paveldrobny/UE5_LightDetection/blob/master/Glass.png)
 
 ## Blueprint Version
 
@@ -112,7 +113,7 @@ void ACustomCharacter::UpdateSunDetection()
 
 	AActor* HitActor = Hit.GetActor();
 
-	if (bHit && IsValid(HitActor))
+	if (IsValid(HitActor) && !HitActor->ActorHasTag(TEXT("LightRay")))
 	{
 		GEngine->AddOnScreenDebugMessage(-1, 0.5f, FColor::Green, TEXT("InShadow"));
 	}
